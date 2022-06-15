@@ -6,10 +6,6 @@ Nele, para um Front-end já implementado, desenvolvi um Back-end RESTful com Nod
 
 Também realizei uma cobertura completa de testes de integração para o Back-end utilizando Mocha, Chai e Sinon.
 
-### Links
-
-- Live site: _\*Em breve_
-
 ### Tecnologias utilizadas
 
 - Docker
