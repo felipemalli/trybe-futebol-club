@@ -6,7 +6,7 @@ Nele, para um Front-end já implementado, desenvolvi um Back-end RESTful com Nod
 
 Também realizei uma cobertura completa de testes de integração para o Back-end utilizando Mocha, Chai e Sinon.
 
-API: https://documenter.getpostman.com/view/20084845/UzBjsnsX
+Documentação da API: https://documenter.getpostman.com/view/20084845/UzBjsnsX
 
 ### Tecnologias utilizadas
 
