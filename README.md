@@ -17,5 +17,6 @@ Documentação da API: https://documenter.getpostman.com/view/20084845/UzBjsnsX
 - JWT
 - Sequelize
 - MySQL
+- Jest
 - Mocha, Chai and Sinon
 - Postman
