@@ -6,17 +6,16 @@ Nele, para um Front-end já implementado, desenvolvi um Back-end RESTful com Nod
 
 Também realizei uma cobertura completa de testes de integração para o Back-end utilizando Mocha, Chai e Sinon.
 
-Documentação da API: https://documenter.getpostman.com/view/20084845/UzBjsnsX
+Documentação da API (Postman): https://documenter.getpostman.com/view/20084845/UzBjsnsX
 
 ### Tecnologias utilizadas
 
 - Docker
-- TypeScript
 - Node.js
+- TypeScript
 - Express.js
-- JWT
 - Sequelize
 - MySQL
 - Jest
 - Mocha, Chai and Sinon
-- Postman
+- JWT
