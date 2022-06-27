@@ -1,0 +1,6 @@
+[submodule "app/backend"]
+	path = app/backend
+	url = git@github.com:felipemalli/tfc-back.git
+[submodule "app/frontend"]
+	path = app/frontend
+	url = git@github.com:felipemalli/tfc-front.git
