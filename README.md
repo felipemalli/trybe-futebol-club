@@ -1,21 +1,42 @@
 # Trybe Futebol Clube
 
-O TFC _(Trybe Futebol Clube)_ foi um projeto avaliativo do curso da Trybe, que consolidou meus conhecimentos sobre Programação Orientada a Objetos e integração entre Front-end e Back-end.
+O TFC _(Trybe Futebol Clube)_ foi um projeto avaliativo do curso da Trybe, que aprimorei após o término.
 
-Nele, para um Front-end já implementado, desenvolvi um Back-end RESTful com Node.js, Express e Sequelize com TypeScript como ORM.
+Nele, para um Front-end já implementado, desenvolvi um Back-end RESTful com cobertura completa de testes de integração.
 
-Também realizei uma cobertura completa de testes de integração para o Back-end utilizando Mocha, Chai e Sinon.
+## Iniciando
 
-Documentação da API (Postman): https://documenter.getpostman.com/view/20084845/UzBjsnsX
+1. Clone o repositório:
+    * `git clone git@github.com:felipemalli/trybe-futebol-club.git`
+
+2. Instale as dependências:
+    * `npm install`
+
+3. Rode o projeto:
+    * `npm run up`
+
+4. Acesse o frontend:
+    * `http://localhost:3000`
+
+## Documentação
+
+Acesse: https://documenter.getpostman.com/view/20084845/UzBjsnsX
+
+### Testes
+
+1. Vá até a pasta do backend:
+    * `cd app/backend/`
+
+2. Rode os testes:
+    * `npm t`
 
 ### Tecnologias utilizadas
 
-- Docker
-- Node.js
 - TypeScript
+- Node.js
 - Express.js
 - Sequelize
 - MySQL
-- Jest
-- Mocha, Chai and Sinon
+- Docker
+- Mocha, Chai e Sinon
 - JWT
