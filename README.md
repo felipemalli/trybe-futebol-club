@@ -2,6 +2,8 @@
 
 O TFC _(Trybe Futebol Clube)_ foi um projeto avaliativo do curso da Trybe, que aprimorei após o término.
 
+É um website de partidas e classificações de futebol, onde é possível buscar, cadastrar e editar partidas e verificar as classificações geral, como mandante e como visitante de cada time.
+
 Nele, para um Front-end já implementado, desenvolvi um Back-end RESTful com cobertura completa de testes de integração.
 
 ## Iniciando
